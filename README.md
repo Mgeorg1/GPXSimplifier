@@ -14,4 +14,4 @@ Main
 
 ## Usage
 
-`go run main.go input.gpx -out output.csv -interval 200`
+`go run main.go -input input.gpx [-out output.csv] [-interval 200]`
